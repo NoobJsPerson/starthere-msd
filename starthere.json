@@ -22,15 +22,15 @@
 		{
 			"title":"Game-Specific Servers (part 2)",
 			"description":"[Apple Knight](https://discord.gg/RJ8WPMBwyB)\n[Bad Piggies](https://discord.gg/K4arHvU)\n[Dadish](https://discord.gg/AtM6gC8X2Q)\n[DAN-BALL](https://discord.gg/5KEA7QHGYt)\n[Does Not Commute](https://discord.gg/QxN9WYA3WU)\n[Dr. Mario World](https://discord.gg/NTm3afRMDs)\n[Eyes](https://discord.gg/nBTmDtX4vg)\n[Golf Zero](https://discord.gg/t2wEDySGR7)\n[Lep's World](https://discord.gg/rp9Ku8B)\n[Nameless Cat](https://discord.gg/gNgKe7hDyJ)\n[Neutronized Speedruns](https://discord.gg/anB8eMw)\n[Obscure Minecraft Speedrunning](https://discord.gg/z8K4hEB)\n[Pou](https://discord.gg/YC6v9MPA23)\n[Sky: Children of the Light](https://discord.gg/kaDA27u)\n[The impossible Ninja Escape](https://discord.gg/jTbevCHZER)\n[Ultimate Racing 2D](https://discord.gg/PRXTpbvpaC)",
-			"color":11750911,
-			"footer": {
-				"text": "https://github.com/Skycloudd/starthere-msd"
-			}
+			"color":11750911
 		},
 		{
 			"title":"Rules",
 			"description":"Here at the Mobile Speedrunning Discord (MSD) we expect you’ll have fun! But having fun comes with rules, and we also expect you to follow these rules to the best of your abilities. Failure to abide by these rules as deemed by the mods can result in a kick or ban.\n:no_entry_sign: hate speech.\n:no_entry_sign: inappropriate/immature jokes.\n:no_entry_sign: shitposting.\n:no_entry_sign: spamming.\n:no_entry_sign: memes, unless speedrunning related.\n:no_entry_sign: swearing occasionally is fine, but don't overdo it.\n:no_entry_sign: Discord invites, unless speedrunning related.\n:no_entry_sign: NSFW.\n:no_entry_sign: phishing.\n:warning: English is the main language of the MSD, please stick to speaking English in chat.",
-			"color":16746240
+			"color":16746240,
+			"footer": {
+				"text": "https://github.com/Skycloudd/starthere-msd"
+			}
 		}
 	],
 	"username":"MSD",
